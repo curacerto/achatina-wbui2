@@ -6,7 +6,7 @@
             "hideiconafter": 60,
             "iconurl": "https://i.imgur.com/OZ6xOjY.png",
             "disableicontext": false,
-            "iconposition": 0,
+            "iconposition": 3,
             "icontextcolor": 0,
             "openonstart": false,
             "openonstartonlynewplayers": true,
@@ -20,7 +20,7 @@
                 "content": [
                     {
                         "title": "Bem vindo ao servidor Achatina!",
-                        "text": "Entre no nosso discord. O link está abaixo."
+                        "text": "Entre no nosso discord. Link abaixo."
                     }
                 ]
             }
