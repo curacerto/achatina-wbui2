@@ -1,0 +1,35 @@
+{
+    "WBUI2": {
+        "settings": {
+            "openbutton": 0,
+            "hideicon": true,
+            "hideiconafter": 60,
+            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": false,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 12
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "Bem vindos",
+                "content": [
+                    {
+                        "title": "Bem vindo ao servidor Achatina!",
+                        "text": "Entre no nosso discord. O link está abaixo."
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Discord",
+                "url": "https://discord.gg/dJUG8B8gTG"
+            }
+        ],
+        "version": 2
+    }
+}
