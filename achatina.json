@@ -20,7 +20,29 @@
                 "content": [
                     {
                         "title": "Bem vindo ao servidor Achatina!",
-                        "text": "Entre no nosso discord. Link abaixo."
+                        "text": "Entre no nosso discord. Link abaixo. Para solicitar um kit inicial, vincule sua conta do Ark ao discord do Servidor."
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "Vincular conta",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Vincular conta",
+                        "text": "Abra o menu radial dentro do Ark e procure pela opção de registro do ASA-Bot. Abrirá uma janela dentro do jogo com um código. Pegue esse código e coloque no comando /confirm no chat do discord do servidor."
+                    }
+                ]
+            },
+            {
+                "layout": 3,
+                "buttontext": "Kit inicial (Starter set)",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Kit inicial",
+                        "text": "Para solicitar um kit inicial é preciso fazer o passo anterior de vincular a conta. Depois de vinculada, no próprio discord procure pelo channel pedir-kit-inicial. Pressione claim e o kit aparecerá no seu inventário. Se tiver algum problema, entre em contato com os admins do servidor."
                     }
                 ]
             }
