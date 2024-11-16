@@ -25,7 +25,7 @@
                 ]
             },
             {
-                "layout": 2,
+                "layout": 1,
                 "buttontext": "Vincular conta",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
@@ -36,7 +36,7 @@
                 ]
             },
             {
-                "layout": 3,
+                "layout": 1,
                 "buttontext": "Kit inicial (Starter set)",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
