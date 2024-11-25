@@ -15,34 +15,46 @@
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "Bem vindos",
+                "buttontext": "Bem vindos / Welcome",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Bem vindo ao servidor Achatina!",
                         "text": "Entre no nosso discord. Link abaixo. Para solicitar um kit inicial, vincule sua conta do Ark ao discord do Servidor."
+                    },
+                    {
+                        "title": "Welcome to Achatina Server!",
+                        "text": "Get in in our discord. Link below. To request a starter kit, link your Ark account to server's discord."
                     }
                 ]
             },
             {
-                "layout": 1,
-                "buttontext": "Vincular conta",
+                "layout": 2,
+                "buttontext": "Vincular conta / Link Account",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Vincular conta",
-                        "text": "Abra o menu radial dentro do Ark e procure pela opção de registro do ASA-Bot. Abrirá uma janela dentro do jogo com um código. Pegue esse código e coloque no comando /confirm no chat do discord do servidor."
+                        "text": "Abra o menu radial dentro do Ark e procure pela opção de registro do ASA-Bot. Abrirá uma janela dentro do jogo com um código. Leia esse código e coloque no comando /confirm no chat do discord do servidor."
+                    },
+                    {
+                        "title": "Link account",
+                        "text": "Open the radial menu inside Ark and look for the register option in ASA-Bot. It will open a window inside the game with a code. Read the code and put the command /confirm in server's discord chat."
                     }
                 ]
             },
             {
-                "layout": 1,
-                "buttontext": "Kit inicial (Starter set)",
+                "layout": 2,
+                "buttontext": "Kit inicial / Starter set",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Kit inicial",
                         "text": "Para solicitar um kit inicial é preciso fazer o passo anterior de vincular a conta. Depois de vinculada, no próprio discord procure pelo channel pedir-kit-inicial. Pressione claim e o kit aparecerá no seu inventário. Se tiver algum problema, entre em contato com os admins do servidor."
+                    },
+                    {
+                        "title": "Starter kit",
+                        "text": "To request a starter kit you need to do the step before to link your account. After your account is linked, in the discord look for "pedir-kit-inicial". Press claim and the kit will spawn in your inventory. If you have any issue, contact server's admin."
                     }
                 ]
             }
