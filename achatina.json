@@ -50,11 +50,11 @@
                 "content": [
                     {
                         "title": "Kit inicial",
-                        "text": "Para solicitar um kit inicial é preciso fazer o passo anterior de vincular a conta. Depois de vinculada, no próprio discord procure pelo channel pedir-kit-inicial. Pressione claim e o kit aparecerá no seu inventário. Se tiver algum problema, entre em contato com os admins do servidor."
+                        "text": "Para solicitar um kit inicial é preciso fazer o passo anterior de vincular a conta. Depois de vinculada, no próprio discord procure pelo channel #starter-kit-claim. Pressione claim e o kit aparecerá no seu inventário. Se tiver algum problema, entre em contato com os admins do servidor."
                     },
                     {
                         "title": "Starter kit",
-                        "text": "To request a starter kit you need to do the step before to link your account. After your account is linked, in the discord look for pedir-kit-inicial. Press claim and the kit will spawn in your inventory. If you have any issue, contact server's admin."
+                        "text": "To request a starter kit you need to do the step before to link your account. After your account is linked, in the discord look for #starter-kit-claim. Press claim and the kit will spawn in your inventory. If you have any issue, contact server's admin."
                     }
                 ]
             }
