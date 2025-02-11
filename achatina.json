@@ -39,7 +39,7 @@
           },
           {
             "title": "Link account",
-            "text": "Open the radial menu inside Ark and look for the register option in ASA-Bot. To open the radial menu on PC press the key R, on xbox LB + RB + X + Y and on ps5 L1 + R1 + square + triangle. It will open a window inside the game with a code and leave the window in your screen without closing it. Go to discord. Read the code and put the command /confirm in server's discord chat. After typing the commando, type space and put the code in the black field that appears, then press enter. If the bot keeps thinking without giving a response, put the code again until it responds."
+            "text": "Open the radial menu inside Ark and look for the register option in ASA-Bot. To open the radial menu on PC press the key R, on xbox LB + RB + X + Y and on ps5 L1 + R1 + square + triangle. It will open a window inside the game with a code and leave the window in your screen without closing it. Go to discord. Read the code and put the command /confirm in server's discord chat. After typing the command, type space and put the code in the black field that appears, then press enter. If the bot keeps thinking without giving a response, put the code again until it responds."
           }
         ]
       },
